@@ -29,13 +29,11 @@ Potrà creare delle camere d'albergo, registrare un nuovo utente per l'utilizzo 
 
 ### Argomenti approfonditi
 
-Context, Custom hooks, React-router-dom
+Progetto finale del corso, comprensivo di tutti gli argomenti affrontati.
 
 ### Start
 
 Per avviare l'applicazione:
 
-Navigare alla cartella del progetto con il terminale
-Avviare il server inserendo il comando npm run server
-Navigare alla cartella del progetto con un altro terminale
-Avviare l'applicazione inserendo il comando npm run dev
+- Navigare alla cartella del progetto con il terminale
+- Avviare l'applicazione inserendo il comando `npm run dev`
