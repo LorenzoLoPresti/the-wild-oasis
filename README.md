@@ -36,4 +36,5 @@ Progetto finale del corso, comprensivo di tutti gli argomenti affrontati.
 Per avviare l'applicazione:
 
 - Navigare alla cartella del progetto con il terminale
+- Installare le dipendenze: `npm i`
 - Avviare l'applicazione inserendo il comando `npm run dev`
